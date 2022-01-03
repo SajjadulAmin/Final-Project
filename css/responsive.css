@@ -1,0 +1,687 @@
+
+@media (max-width: 575.90px) {
+
+    /* popular catagory part start */
+
+    .catagory-items {
+        margin: 0 15px 30px 15px;
+    }
+
+    /* popular catagory part end */
+
+    /* recent job start */
+
+    .rec-job-checkbox .c-text {
+        margin-right: 10px;
+    }
+    .sub-name h3 {
+        font-size: 18px;
+        padding-bottom: 6px;
+    }
+
+    .job-categories{
+        position: relative;
+    }
+
+    .job-categories .sub-details-butn{
+        position: absolute;
+    }
+
+    .sub-details-butn a {
+        margin-top: 128px;
+        margin-left: 58%;
+    }
+
+    /* recent job start */
+
+}
+
+@media (max-width: 767.90px){
+
+    /* search part start */
+
+    #search .search-btn-i1 {
+        margin: 15px 0px;
+    }
+    #search .formdiv .search-btn-i2 {
+        margin: 0;
+    }
+    #search .search-btn-two .search-btn-i3 {
+        margin: 15px 0 0 0;
+    }
+    #search .btn{
+        padding: 0;
+    }
+    #search .search-submit button {
+        width: 100%;
+    }
+
+    #search .formdiv:after {
+        top: 13px;
+    }
+
+    /* search part end */
+
+    
+    /* popular catagory part start */
+
+    .section-header p {
+        padding: 10px 0;
+    }
+
+    .catagory {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    /* popular catagory part end */
+
+    /* how it works part start */
+
+    .work-part-1::after {
+        display: none;
+    }
+
+    /* how it works part end */
+
+    /* recent job start */
+
+    #recent-job .recent-job-p1 {
+        margin-bottom: 30px;
+    }
+
+    .categories-subject .sub-name {
+        padding-left: 122px;
+        padding-top: 18px;
+        padding-bottom: 0px;
+        float: none;
+    }
+
+    .sub-location span {
+        margin-top: 5px;
+    }
+
+    .sub-payment span {
+        margin-top: 5px;
+        margin-bottom: 14px;
+    }
+
+    .all-jobs{
+        text-align: center;
+    }
+
+    .all-jobs-left p {
+        font-size: 15px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .all-jobs-right button {
+        margin-top: 0;
+        margin-bottom: 30px;
+        float: none;
+    }
+    
+    /* recent job end */
+
+    /* workers part start */ 
+
+    #remote-workers .section-header {
+        margin-top: 55px;
+        margin-bottom: 30px;
+    }
+
+    .worker-footer-left, .worker-footer-right {
+        margin-top: 0px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    /* workers part end */ 
+
+
+    /* video audio slider part start */ 
+
+    .video-audio-sld-part2 img{
+        width: 100%;
+    }
+
+    .video-audio-sld-part1 {
+        padding-top: 30px;
+    }
+
+    .video-sld {
+        margin-top: 35px;
+    }
+
+    .video-right{
+        text-align: center;
+    }
+
+    .video-sld-right h3 {
+        padding-top: 0px;
+    }
+
+    #video-audio-sld {
+        margin-bottom: 60px;
+    }
+
+    /* video audio slider part end */ 
+
+    /* milestone part start */
+
+    .section-header h2 {
+        font-size: 30px;
+    }
+
+    .section-header p {
+        padding: 12px 0;
+        line-height: 22px;
+    }
+
+    .counter-left-a h3 {
+        font-size: 35px;
+    }
+    
+    .counter-left-a {
+        padding: 20px 0;
+    }
+
+    .main-counter::after,
+        .main-counter::before{
+            display: none;
+        }
+
+    .partner-logo-sm{
+        text-align: center;
+    }
+
+    .partner-logo-right{
+        margin-top: 30px;
+    }
+
+
+    /* milestone part  end */
+
+    /* footer part  start */
+
+    .footer-second-part-1,
+        .footer-second-part-2,
+        .footer-second-part-3{
+        text-align: center;
+    }
+
+    .footer-second-part-1 h3::after,
+        .footer-second-part-2 h3::after,
+            .footer-second-part-3 h3::after{
+        left: 50%;
+        transform: translate(-50%, -100%);
+    }
+
+    .footer-second-part{
+        padding: 30px 0;
+    }
+
+    .footer-second-part-2 h3{
+        padding-top: 30px;
+    }
+
+    .footer-second-part-3 h3 {
+        padding-top: 30px;
+    }
+
+    .footer-second-part-3 .email-home{
+        width: 170px;
+    }
+
+    .footer-second-part-3 .subscribe{
+        font-size: 18px;
+        padding: 8px 15px 6px 15px;
+    }
+
+    .footer-third-part p {
+        font-size: 14px;
+    }
+    /* footer part  end */
+
+    
+}
+
+@media (min-width: 576px) and (max-width: 767.90px) {
+
+    /* search part start */
+
+    #search .search-btn-i1 {
+        margin-top: 60px;
+    }
+    #search .search-submit button {
+        margin: 30px 0 0 0;
+    }
+
+    /* search part end */
+
+    /* popular catagory part start */
+    .catagory {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+
+    .catagory-items h3 {
+        font-size: 22px;
+    }
+
+    .section-header p {
+        padding: 10px 5px;
+    }
+    /* popular catagory part end */
+
+    /* recent job start */
+
+    .rec-job-checkbox .c-text {
+        margin-right: 20px;
+    }
+
+    .rec-job-checkbox {
+        margin-left: 60px;
+    }
+
+    .job-categories{
+        position: relative;
+    }
+
+    .job-categories .sub-details-butn{
+        position: absolute;
+    }
+
+    .sub-details-butn a {
+        margin-top: 128px;
+        margin-left: 74%;
+    }
+
+    /* recent job start */
+
+    /* video audio slider part start */ 
+
+    .video-audio-sld-part1 {
+        padding-top: 60px;
+    }
+
+    /* video audio slider part end */ 
+
+    /* Footer part start */
+
+    .footer-second-part-3 .email-home {
+        width: 70%;
+    }
+
+
+    /* Footer part end */
+
+    
+
+}
+
+
+@media (max-width: 991.90px) {
+
+    /* nav bar part start */
+
+    .navbar .navbar-toggler {
+        border: 1px solid #00b8ef;
+        color: #00b8ef;
+        font-size: 28px;
+    }
+    .logo img {
+        width: 80%;
+    }
+
+    /* nav bar part end */
+
+    /* banner part start */
+
+    #banner .banner-img{
+        display: none;
+    }
+    .banner-content h2 {
+        font-size: 35px;
+        padding-top: 35px;
+        text-align: center;
+    }
+    .banner-content h3 {
+        font-size: 35px;
+        padding-top: 10px;
+        text-align: center;
+    }
+    .banner-content p {
+        font-size: 16px;
+        margin-bottom: 90px;
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    /* banner part end */
+
+    /* search part start */
+
+    #search .sel1.formdiv:after {
+        top: 0px;
+    }
+
+    /* search part end */
+
+    /* recent job start */
+
+    .recent-job-input input {
+        margin-bottom: 15px;
+    }
+
+    .rec-job-select select {
+        margin: 05px 0 15px 0;
+    }
+    .recent-job-input button {
+        width: 100%;
+    }
+
+    .want-job{
+        margin-bottom: 60px;
+    }
+
+    .want-job-left{
+        margin-bottom: 30px;
+    }
+
+    /* recent job end */
+
+    /* workers part start */ 
+
+    .worker{
+        margin-bottom: 30px;
+    }
+
+    /* workers part end */ 
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.90px) {
+
+    /* banner part start */
+
+    .banner-content h2 {
+        font-size: 58px;
+        padding-top: 70px;
+    }
+    .banner-content h3 {
+        font-size: 58px;
+    }
+    .banner-content p {
+        font-size: 18px;
+        margin-top: 0;
+    }
+
+    /* banner part end */
+
+    /* search part start */
+
+    #search .formdiv .search-btn-i2 {
+        margin: 0;
+    }
+    #search .search-submit button {
+        width: 100%;
+        margin: 0 0 30px 0;
+    }
+    #search .btn{
+        padding: 0;
+    }
+    /* search part end */
+
+    /* popular catagory part start */
+
+    .section-header p {
+        padding: 10px 95px;
+    }
+
+    .section-header {
+        margin-top: 0px;
+    }
+
+    .catagory {
+        margin: 50px 8px 60px 8px;
+    }
+
+    /* popular catagory part end */
+
+    /*  how it works part start */
+
+    .work-part-1{
+        z-index: 1;
+    }
+    .work-part-1::after {
+        left: 234px;
+    }
+
+    .work-part-3::after {
+        border-bottom: 2px dashed #dddddd;
+    }
+
+    .work-part-1 p {
+        padding-left: 85px;
+        padding-right: 85px;
+    }
+
+    /*  how it works part end */
+
+    /* recent job start */
+
+    .rec-job-checkbox {
+        margin-left: 90px;
+    }
+
+    .sub-payment span {
+        margin-top: 30px;
+        margin-bottom: 32px;
+    }
+
+    .sub-details-butn a {
+        margin-top: 15px;
+    }
+
+    .all-jobs-left p {
+        margin-bottom: 80px;
+    }
+
+    /* recent job end */
+
+    /* workers part start */ 
+
+    .worker-footer-left p{
+        font-size: 14px;
+    }
+
+    .worker-footer .btn_bg {
+        float: right;
+    }
+
+    .worker-footer-left, .worker-footer-right {
+        margin-top: 25px;
+        margin-bottom: 55px;
+    }
+
+    .worker-footer-right{
+        margin-top: 15px;
+    }
+
+    /* workers part end */
+
+    /* video audio slider part start */ 
+
+    .video-audio-sld-part2 img {
+        width: 100%;
+    }
+
+    .video-audio-sld-part1 {
+        padding-top: 50px;
+    }
+
+    .video-sld {
+        margin-top: 50px;
+    }
+
+    .video-sld-right h3 {
+        padding-top: 10px;
+    }
+
+    /* video audio slider part end */ 
+
+    /* Milestone-partner part start */
+
+    .partner-logo-right {
+        margin-top: 0px;
+    }
+
+    .counter-left-a {
+        padding: 40px 0;
+    }
+
+    /* Milestone-partner part end */
+
+    /* Footer part start */
+
+    .footer-second-part-2 ul li a {
+        line-height: 35px;
+    }
+
+    .footer-second-part-1{
+        margin-bottom: 60px;
+    }
+
+    .footer-second-part-3 .email-home {
+        width: 210px;
+    }
+
+    /* Footer part end*/
+
+
+
+
+}
+
+/* search background part */
+
+@media (min-width: 576px) and (max-width: 767.9px){
+
+    #banner .banner-img {
+        display: block;
+    }
+
+    .banner-img img {
+        position: absolute;
+        top: 326px;
+        right: 50%;
+        width: 70%;
+        transform: translateX(50%);
+    }
+
+}
+
+/* search background part */
+
+
+@media (min-width: 992px) and (max-width: 1199.90px) {
+
+    /* nav bar part start */
+
+    #mynav .navbar-nav .nav-link {
+        font-size: 18px;
+        margin: 55px 20px 0px 20px;
+    }
+    #mynav .from_btn .btn_bg {
+        font-size: 18px;
+    }
+
+    /* nav bar part end */
+
+    /* banner part start */
+
+    .banner-content h2 {
+        padding-top: 70px;
+    }
+    .banner-img img {
+        right: 0;
+        width: 480px;
+        height: auto;
+    }
+
+    /* banner part end */
+
+     /* popular catagory part start */
+
+    .catagory-items h3 {
+        font-size: 22px;
+    }
+
+    .catagory {
+        margin-top: 90px;
+        margin-bottom: 68px;
+    }
+
+    .work-part-1::after {
+        width: 215px;
+        left: 200px;
+    }
+
+     /* popular catagory part end */
+
+    /* recent job start */
+
+    .rji-t-c{
+        text-align: center;
+    }
+
+    .sub-details-butn a {
+        margin-left: 85px;
+    }
+    
+    .sub-payment{
+        padding: 0;
+    }
+
+    /* recent job end */
+
+    /* workers part start */ 
+
+    .worker-footer .btn_bg {
+        font-size: 18px;
+    }
+
+    /* workers part end */
+
+    /* Footer part start */
+
+    .footer-second-part-3 .email-home {
+        width: 170px;
+    }
+
+    .footer-second-part-2 ul li a {
+        font-size: 15px;
+    }
+
+    .footer-second-part-2 h3 {
+        font-size: 19px;
+    }
+
+    .home-form {
+        padding-top: 14px;
+        padding-bottom: 40px;
+    }
+    /* Footer part end */
+    
+}
+
+@media (min-width: 1200px){
+
+    .container {
+        max-width: 1140px;
+    }
+}
+
+
